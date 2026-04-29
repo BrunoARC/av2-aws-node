@@ -1,7 +1,6 @@
 {
   "name": "av2-aws-node",
   "version": "1.0.0",
-  "description": "",
   "homepage": "https://github.com/BrunoARC/av2-aws-node#readme",
   "bugs": {
     "url": "https://github.com/BrunoARC/av2-aws-node/issues"
@@ -20,5 +19,6 @@
   },
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "description": ""
 }
